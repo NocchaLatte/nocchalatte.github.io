@@ -16,7 +16,7 @@ timezone: America/Edmonton
 
 title: Devlog of Latte # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: my life as a software developer / weeb # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Technical blog of Hyunmyung Park (a.k.a. Latte) who is a software developer and a tech enthusiast.
